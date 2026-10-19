@@ -1,0 +1,3 @@
+2026-10-19 10:35:53.627 [INF] Ứng dụng Kế hoạch dã ngoại khởi động.
+2026-10-19 10:36:41.220 [INF] Thêm chuyến đi MaChuyen=9, Ten=Vung Tàu
+2026-10-19 10:36:50.120 [INF] Ứng dụng Kế hoạch dã ngoại dừng.
